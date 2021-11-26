@@ -12,5 +12,5 @@ Import database srms.sql from downloaded folder(inside database)
 
 
 # Admin Login Details
-1. Login Id: admin
-2.Password: 123
+  Login Id: admin
+  Password: 123
