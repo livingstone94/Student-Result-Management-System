@@ -1,15 +1,15 @@
 
 # Admin Features
-  Admin Dashboard
-  Admin can add/update/ Class
-  Admin can add/update/ Subjects
-  Admin can add/update/ Active/Inactive Subject combination with class
-  Admin can register new student and also edit info of the student
-  admin can declare/ edit  result of a student.
-  Admin can change own password
+ 1. Admin Dashboard
+ 2. Admin can add/update/ Class
+ 3. Admin can add/update/ Subjects
+ 4. Admin can add/update/ Active/Inactive Subject combination with class
+ 5. Admin can register new student and also edit info of the student
+ 6. admin can declare/ edit  result of a student.
+ 7. Admin can change own password
 # Students-
-  Student can search their result using valid rollid.
-  Student can download the result in the PDF format.
+ 1. Student can search their result using valid rollid.
+ 2. Student can download the result in the PDF format.
 Here, Student can check their results by entering Roll id. Admin can create & manage Classes, subjects.Add & Manage students and Declare Results. This project is done in PHP. It’s easy to operate and understand by users.The design is pretty simple and user won’t find it difficult to understand, use and navigate.
 
 # Installation Steps
