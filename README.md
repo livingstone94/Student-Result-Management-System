@@ -10,7 +10,7 @@
 # Students-
  1. Student can search their result using valid rollid.
  2. Student can download the result in the PDF format.
-Here, Student can check their results by entering Roll id. Admin can create & manage Classes, subjects.Add & Manage students and Declare Results. This project is done in PHP. It’s easy to operate and understand by users.The design is pretty simple and user won’t find it difficult to understand, use and navigate.
+ 3. Here, Student can check their results by entering Roll id. Admin can create & manage Classes, subjects.Add & Manage students and Declare Results. This project is done in PHP. It’s easy to operate and understand by users.The design is pretty simple and user won’t find it difficult to understand, use and navigate.
 
 # Installation Steps
 1.Clone the repo or download zip file and Unzip file on your local server.
@@ -26,5 +26,5 @@ Import database srms.sql from downloaded folder(inside database)
 
 
 # Admin Login Details
-  Login Id: admin
-  Password: 123
+  . Login Id: admin
+  . Password: 123
