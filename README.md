@@ -28,3 +28,5 @@ Import database srms.sql from downloaded folder(inside database)
 # Admin Login Details
   . Login Id: admin
   . Password: 123
+
+# Test direcly https://livingstone94.github.io/Student-Result-Management-System/
